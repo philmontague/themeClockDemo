@@ -32,6 +32,8 @@ body {
     margin: 0; 
 }
 
+
+/* TOGGLE BUTTON */
 .toggle { 
     cursor: pointer;
     background-color: var(--primary-color);
@@ -47,12 +49,15 @@ body {
     outline: none;
 }
 
+
+/* CLOCK CONTAINER */
 .clock-container { 
     display:  flex; 
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
 }
+
 
 /* ACTUAL CLOCK */
 .clock { 
