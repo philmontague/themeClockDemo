@@ -54,6 +54,7 @@ body {
     align-items: center;
 }
 
+/* ACTUAL CLOCK */
 .clock { 
     position: relative;
     width: 200px;
@@ -108,6 +109,8 @@ body {
     border-radius: 50%;
 }
 
+
+/* DATE AND TIME */
 .time { 
     font-size: 60px; 
 }
